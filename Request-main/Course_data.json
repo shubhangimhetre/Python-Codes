@@ -1,0 +1,466 @@
+{
+    "course": {
+        "id": "70",
+        "name": "NavGurukul ka Constitution - Hindi",
+        "logo": "https://bit.ly/2FqFR4k",
+        "notes": null,
+        "days_to_complete": "3",
+        "short_description": "We will learn about the Constitution of NavGurukul.",
+        "type": "html",
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "1816",
+                "parent_exercise_id": null,
+                "course_id": "70",
+                "name": "NavGurukul Constitution",
+                "slug": "hindi-constitution__ng-constitution",
+                "sequence_num": 0,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/ng-constitution.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n### NavGurukul Constitution\n\n Navgurukul students ko apni pasand ka career chunne ke liye nurture karta hai aur unhe ek majboot practical samajh de kar change ko jyada se jyada logon tak pahunchane ke tareeke ke bare me baat karta hai. Residential suvidha ka poori responsibility ke sath management aur governance ensure karne ke liye zaroori hai ki: * Yahan har ek student is opportunity ka use karte hue apni leadership skills par kaam karke apne attitude ko aur better banayein aur situation ki zimmedari len\n* Student different processes me ownership len aur apne experiences aur growth ko shape up karne me apne role ko samjhein\n* Yeh model scalable hai plug aur play karne ke liye taaki jyada se jyada students navgurukul ki leading ka benefit le sakein\n\n Ek smoothly chal rahe system ke raste mein aane wale kayi hiccups hain. Students ko ownership lene aur cheezon ko sahi karne ki zaroorat hai. Yeh constitution ek structured manner me ek framework provide karta hai \u2013 jis se har member ka development hota hai aur daily basis pe hone waali problems ko efficiently tackle kiya ja sakta hai. Aap is opportunity ka use ek safe space banaane me apne role ko samajhne aur appreciate karne ke liye kar sakte hain jis se sabhi ek doosre ke beech seekhein aur pyar se rahein. Yeh constitution aur humare saare efforts humein: **\u0905\u0938\u0924\u094b \u092e\u093e \u0938\u093e\u0926 \u0917\u092e\u092f, \u0924\u092e\u0938\u094b \u092e\u093e \u091c\u094d\u092f\u094b\u0924\u093f\u0930\u094d \u0917\u092e\u092f, \u092e\u0943\u0924\u094d\u092f\u094b\u0930 \u092e\u093e \u0905\u092e\u0943\u0924\u092e\u094d \u0917\u092e\u092f** agyaan se gyan ki or le jaye, andhere se ujaale ki or le jaye, mrityu se jeewan ki or le jaye "
+                    }
+                ]
+            },
+            {
+                "id": "1819",
+                "parent_exercise_id": null,
+                "course_id": "70",
+                "name": "Section III - Complaints",
+                "slug": "hindi-constitution__section-3-complaints",
+                "sequence_num": 400,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-3-complaints.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Complaints\n\n Student body kisi complaint ko raise karne ke liye free hai. Koi issue jis par sabka dhyaan akarshit karne ki zaroorat hai, aise issue ko open forum me discuss kiya ja sakta hai. Ye respective council member ki duty hogi ki wo 3 din ke andar aise issues ko address kare.  Campus affairs ke quick resolution ke liye DISCO sabhi unresolved issues aur complaints ko weekly basis par deal karega.  DISCO ke ek ya ek se jyada members ke against complaint ko Board of Governors address karega.  Agar kisi council member ke against disciplinary action liya jayega, to member ka review Board of Governors karega. "
+                    }
+                ]
+            },
+            {
+                "id": "1820",
+                "parent_exercise_id": null,
+                "course_id": "70",
+                "name": "Section IV - Elections",
+                "slug": "hindi-constitution__section-4-elections",
+                "sequence_num": 500,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-4-elections.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Elections\n\n Har 3 months par, Council members elect karne ke liye DISCO elections conduct karwayega. \n\n### Nominations:\n\n Elections se 7 din pehle DISCO nominations ke liya call karega through a message jo sabhi ko visible ho. Elections se 4 din pehle ek reminder bhi diya jayega. Wo candidates jo ki election me particular profile ke liye khud ko contest karna chahte hain, wo khud ko nominate kar sakte hain. Ek student maximum 2 posts ke liye khud ko nominate kar sakta hai. DISCO ke announcement ke baad hi Nomination liye jayenge. Nominations is [form](https://goo.gl/forms/5MgDqDviAdSvI1s12) ke through liye jayenge. \n\n### Voting:\n\n Election me har student ek profile ke liye ek hi student ko vote dega. Votes ki counting DISCO karega. Voting anonymous hogi. \n\n### Appointment to the council: \n\n Jis candidate ko sabse zyada vote mile hain, wahi us profile ke liye select hoga. \n\n### Appointment of GenSec:\n\n GenSec council ke members me se chuna jayega. Saare council members elect ho jaane ke baad DISCO elected council members me se GenSec ki post ke liye nominations mangega. GenSec ke liye DISCO fir se voting karwayega. General body ke sabhi members apni pasand ke member ko GenSec chunne ke liye vote karenge. GenSec ke appointment ke liye sabse zyada votes paane wale 2 candidates ka Board of Governors interview lenge. "
+                    }
+                ]
+            },
+            {
+                "id": "1824",
+                "parent_exercise_id": null,
+                "course_id": "70",
+                "name": "Ethics of Election",
+                "slug": "hindi-constitution__ethics",
+                "sequence_num": 600,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/ethics.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Ethics of the Election\n Election NavGurukul ka ek core aur important process hai. Ye bahut zaroori hai ki Council ke Elections aur Appointments bilkul fair hon aur jo bhi eligible ho use participate karne me barabar ki opportunity mile. DISCO ensure karega ki campus me Elections bilkul fair tareeke se hon. Iska matlab ki sabhi nominated students ko community ke saamne apne aap ko present karne mauka mile ki kyun wo us respective profile ke liye elect kiya jana chahiye.  Community ke sabhi members ko ye elections se pehle hi communicate kiya jana ki wo usi nominated member ko vote karein jinhe wo us profile ke liye sabse suited maante hain. Agar elections ke baad, DISCO ya Governor ko kisi bhi tarah se aisa lagta hai ki elections fair nahi hain, to wo election ko disqualify kar sakte hain. Iske baad Re-elections conduct kiye jayenge. "
+                    }
+                ]
+            },
+            {
+                "id": "1823",
+                "parent_exercise_id": null,
+                "course_id": "70",
+                "name": "Section V - Rules & Regulations",
+                "slug": "hindi-constitution__section-5-rules",
+                "sequence_num": 700,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-5-rules.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Section V - Rules & Regulations\n\n  - NavGurukul ek drug and alcohol free campus hai. Hum moral policing me vishwaas nahi rakhte, lekin course me enrolled hone ke dauraan drinking students ko distract karta hai, learning se door le jata hai aur baakiyon ke liye bhi uncomfortable situation paida kar deta hai. Isliye, hum students ka course ke duration me on ya off campus alcohol consume karna approve nahi karte.   \n - Disciplinary committee ke dwara banaye gaye schedule ka sabhi students palan karenge.\n - Koi bhi student aisi kisi bhi tarah ki activity me involve nahi hoga jisse NavGurukul ki reputation ko nuksaan ho. Prohibited activities include but are not limited to:\n    1. Kisi bhi process ya activity me alcohol ka use\n    2. Koi substance ya object kisi individual ya group par fekna ya daalna \n    3. Verbal abuse ya physical harm ki dhamki dena\n    4. Kisi person ko zabardasti uski iccha ke bina kuch khilana ya pilana\n    5. Khud  ya kisi aur ke sath uski ki iccha ke bina kuch potentially harmful karna\n    6. Kisi bhi tarah ka molestation, sexual abuse ya stalking karna\n - Kisi bhi tarah ke misconduct ko sabhi community members seedha DISCO ko report karein\n - Off-campus Activities: NavGurukul me, kisi bhi student ki learning bahut had tak depend karti hai peer learning par aur ye sirf tabhi possible hai jab learning group ke sabhi members campus me available hon. Ye achieve karne ke liye zaroori hai ki sabhi members study hours me bhi campus me available hon. Isliye hum DISCO ko encourage karte hain ki off campus leisure activities specific time ke liye hi rakhe. Ye community members ke saftey aur security ke liye bhi zaroori hai. \n "
+                    }
+                ]
+            },
+            {
+                "id": "1822",
+                "parent_exercise_id": null,
+                "course_id": "70",
+                "name": "Section VI - Center and Board of Governors",
+                "slug": "hindi-constitution__section-6-center",
+                "sequence_num": 800,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-6-center.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Center and Board of Governors\n\n Council se upar ki body center hogi jisme NavGurukul ke team members aur alumuni honge. Center har campus me issues se deal karne ke liye Governor(s) aur Deputy Governor appoint karega. NavGurukul ka ek alumnus Deputy Governor appoint kiya jayega.  Board of Governors ka third member ek Independent Governor hoga jo ki NavGurukul me direclty involved nahi hai. "
+                    }
+                ]
+            },
+            {
+                "id": "1817",
+                "parent_exercise_id": "1817",
+                "course_id": "70",
+                "name": "Power to the People",
+                "slug": "hindi-constitution__section-0/section-0",
+                "sequence_num": 2000,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-0/section-0.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Power to the People\n\n Navgurukul ke constitution ne Swaraj  ko yaani by the people, for the people ke principle ko apnaya hai.\nYeh important hai ki community ka har ek sadasya constitution se **empowered** feel kare aur **elected member** power centers ki tarah kaam karne ki jagah **facilitator** ki tarah kaam karein. \nYeh ensure karne ke liye ki sabhi members ke paas power ho, iske liye different safeguards hain jaise ki Right to recall, lekin, sabse pahle ek accha culture humein yahan tak lead kar sakta hai. \nIsiliye, har ek member ko isme participate karne aur ownership lene ke liye encourage kiya jata hai. "
+                    }
+                ]
+            },
+            {
+                "id": "1826",
+                "parent_exercise_id": "1817",
+                "course_id": "70",
+                "name": "Right to Dissent",
+                "slug": "hindi-constitution__section-0/right-to-dissent",
+                "sequence_num": 2001,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-0/right-to-dissent.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Right to Dissent\n\n Ek healthy community sirf favorable views par based nahi hoti, balki **contrarian views** ko bhi utni hi importance deti hai. \nAcchi efficiency ke liye, normally contrarian views ko contempt ke saath handle kiya jata hai aur **dissent** aur **whistleblowing** ko distraction ki tarah dekha jata hai. \nLekin, NavGurukul ke constitution ka manna hai ki fairness aur long-term growth ke liye dissent aur whistleblowing system ka valuable part hain. \nIsiliye, constitution har member ko Right to dissent deta hai jahan member Board of Governors ki presence me council ko address karte hue seedhe issue raise kar sakta hai. \nMembers ko actively apni asahmati ko exercise karne aur system ke **loopholes ko expose** karne ke liye motivate kiya jaata hai. Humara constitution sabhi whistleblowers ko salaam karta hai jinhone apne efforts se duniya ko behtar banane ki koshish ki hai "
+                    }
+                ]
+            },
+            {
+                "id": "1827",
+                "parent_exercise_id": "1817",
+                "course_id": "70",
+                "name": "Right to Audit",
+                "slug": "hindi-constitution__section-0/right-to-audit",
+                "sequence_num": 2002,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-0/right-to-audit.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Right to Audit\n\n Elected members baaki sabhi members ke well-being ke liye kaam kar rahe hain aur isiliye baaki members ko efficient solutions khojne ya discripencies ko expose ke liye **processes, records** aur **accounts** ki jaankaari rakhne aur unhe audit karne ka right hai. \nAisa karne ke liye, sabhi members ke liye right information arrange karna council ki responsibility hai. \nAgar koi member audit karna chahta hai to wo aisa Board of Directors ki supervision me kar sakta hai.  Council ko suggest kiya jata hai ki wo Documentation ya communication channels par electronically apne decisions **document** kar den jisse ki wo centre ke sabhi members aur baaki sabhi ke liye available ho. \nSabhi members ko in decisions par **feedback dene ke liye encourage** kiya jata hai. \nAgar unhe lagta hai ki wo cheezon ko better approach ke sath kar sakte hain ya jab unhe lagta hai ki kuch galat decision liya ja raha hai.  \nWo issue ko escalate karne ke liye Right to Audit ya Right to Dissent ka use bhi kar sakte hain. Saath hi, kuch aisi duties bhi hain jo har ek student ko follow karna important hai. \nYe NavGurukul ke sabhi students ki duty honi chahiye ki:  - Constitution ko aur constitution me mention sabhi rules and regulations ko follow karein\n - NavGurukul ke sabhi values ko by-heart apnana jisme included hain- ek doosre ke liye respect, jo galat ho raha hai uske against stand lene ka courage, apne kaam aur thoughts me honesty, openness aur transparency aur ignorance se sach ke raste par sath chalna\n "
+                    }
+                ]
+            },
+            {
+                "id": "1818",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Section I - Council",
+                "slug": "hindi-constitution__section-1-council/section-1-council",
+                "sequence_num": 3000,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/section-1-council.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Council\n\n Council ko Navgurukul campus ke **members** dwara elect kiya jayega aur wo campus ko represent karne ke liye responsible honge. \nCouncil sabhi ki **learning** ensure karte hue day-to day operations ko **smoothly manage** karegi. \nCouncil ke members ke beech kaam bantne ke liye is council me 7 members shaamil honge:  - Food and Kitchen Coordinator\n - Information Technology Coordinator\n - Treasurer\n - Outreach and Communication Coordinator\n - Training and Placement Coordinator\n - Facility and Maintenance Coordinator\n - Prosperity Officer\n\n Council ke members ke alawa general body se ek member ko **General Secretory** appoint kiya jayega.  Har **3 months** baad, council ke members ke appointment ke liye elections conduct kiye jayenge.  Council ke kaam ke review ke liye har month ek **General Body Meeting (GBM)** organize ki jayegi. \nMeeting ke Minutes (MoM) ko record kiya jayega aur Outreach and Communication Coordinator ke through ek public blog me post kiya jayega.  Coordinators Board ke Governors ke consultation se issues ko resolve karne aur existing solutions ko improve karne ke liye independently kaam kar sakte hain. \nEk student council me 2 se jyada post par nahi rah sakta hai. \nTransparency ensure karne ke liye council members campus ke channel me electronically apne decisions record karnge. "
+                    }
+                ]
+            },
+            {
+                "id": "1828",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "General Secretary",
+                "slug": "hindi-constitution__section-1-council/gensec",
+                "sequence_num": 3001,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/gensec.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# General Secretary\n Apni responsibilities ke alawa, General Secretory (GenSec) ka roles council ki smooth functioning ko ensure karna hai. Responsibilities:  - Campus affairs ke bare me Board of Governors ke sath **communicate** karna\n - Council ke sabhi members ki functioning ko dekhna aur conflicts ko resolve karna (aise sabhi conflicts channels par **documented** hone chahiye)\n - NavGurukul premises me **constitution** ki respect banaye rakhna\n - **Monthly GBMs** organize karna aur host karna \n "
+                    }
+                ]
+            },
+            {
+                "id": "1829",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Food and Kitchen Coordinator",
+                "slug": "hindi-constitution__section-1-council/food",
+                "sequence_num": 3002,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/food.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Food and Kitchen Coordinator\n\n Responsibilities:  - Community ke members ke beech kitchen aur baaki kaamo ko equally aur impartially distribute karna\n - Meals ke breaks ka time decide karna\n - Ye ensure karna ki break time me meals serve ho jaye\n - Kitchen ki duty wale members ki help se khaane ka menu decide karna\n - Grocery aur khaane ke liye baaki samaan khareedna aur khareedne ki responsibility ko distribute karna\n - Community members ki khaane se related kisi bhi tareeke ki complaint ko address karna aur unhe resolve karna\n - Kisi bhi aur kitchen aur food related issue ka solution\n - Appropriate channels par aise sabhi decisions ko post karna\n "
+                    }
+                ]
+            },
+            {
+                "id": "1825",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Information and Technology Coordinator",
+                "slug": "hindi-constitution__section-1-council/information",
+                "sequence_num": 3003,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/information.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Information and Technology Coordinator\n\n Responsibilities:  - NavGurukul ke laptops, jo kisi ko bhi assign nahi kiye gaye hain, ka dhyaan rakhna\n - New students ko laptop dena, laptop ki list banana aur unke allocation ke liye ek process define karna aur use document karna\n - Curriculum ke according har 45 days me random tareeke se students ko laptops reallocate karna (eg. Android students ko 8GB+ dena, iOS students ko Macbook dena) \n - Kisi bhi laptop ko repair karwana aur uska dhyaan rakhna\n - Internet problems ko resolve karne ke liye data collect karna, solutions dhundhna aur unhe implement karna \n - Appropriate communication channel par aise sabhi decisions ko document karna \n "
+                    }
+                ]
+            },
+            {
+                "id": "1837",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Treasurer",
+                "slug": "hindi-constitution__section-1-council/treasurer",
+                "sequence_num": 3004,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/treasurer.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Treasurer\n\n Responsibilities:  - Monthly basis par budget create karna \n - Sabhi kharchon ko monitor karna aur ensure karna ki kharche budget ke andar hi ho\n - Ensure karna ki sabhi kharchon ke liye ek record maintain kiya jaye aur use Board of Governenrs ko report kiya jaaye \n\n "
+                    }
+                ]
+            },
+            {
+                "id": "1838",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Outreach and Communications Coordinator",
+                "slug": "hindi-constitution__section-1-council/outreach",
+                "sequence_num": 3005,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/outreach.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Outreach and Communications Coordinator\n\n Responsibilities:  - General Body Meeting ke minutes ko Good, Bad and Ugly format me ek public blog maintain karke uspar post karna. Ye blog har mahine NavGurukul ke main blog par bhi post kiya jayega. \n - Alag alag activities ki pictures click karke unhe kisi centralized location par store karna jahan se sabhi member aur Board of Governors unhe access kar sake \n - Center, volunteers aur community ke members ke commincation ka central point banna \n - Ek center specific blog maintain karna \n "
+                    }
+                ]
+            },
+            {
+                "id": "1839",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Training and Placement Coordinator",
+                "slug": "hindi-constitution__section-1-council/training",
+                "sequence_num": 3006,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/training.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Training and Placement Coordinator\n\n Responsibilities:  - Internships aur job ke liye apply karne me students ko assistance dena \n - Internships aur recruitment ke liye companies se correspond karna \n - Interview ki taiyaari ke liye resume writing and mock interview jaise sessions conduct karna \n - Training aur placement se related sabhi activities ko coordinate karna jinme se kuch hain:- interviews ke liye companies ko invite karna, interviews arrange karwana, ensure karna ki sabhi students job offers aur companies ko responsibly respond kar rahe hain taaki companies ko NavGurukul se ek accha experience mile \n "
+                    }
+                ]
+            },
+            {
+                "id": "1830",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Facility Maintenance Coordinator",
+                "slug": "hindi-constitution__section-1-council/maintenance",
+                "sequence_num": 3007,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/maintenance.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n### Facility Maintenance Coordinator\n\n Responsibilities - Campus me maintenance aur repairs ka dhyaan rakhna\n- Campus me dormitories and classrooms ke liye accommodation related samaan ko arrange \n- New students ko rooms allot karna aur har 45 days par rooms ko reshuffle karna\n- Utilities ka bill payment aur unka sahi istemaal ensure karna\n- Premises ka hygiene aur cleaning schedule banana \n- Waste management, water recyling aur aise aur inititiatives ke zariye campus ko self-sustainable banane par kaam karna \n "
+                    }
+                ]
+            },
+            {
+                "id": "1831",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Prosperity Officer",
+                "slug": "hindi-constitution__section-1-council/happiness",
+                "sequence_num": 3008,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/happiness.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n### Prosperity Officer\n\n Responsibilities - Students ko campus me ek safe space provide karna jahan bacche apni feeling share kar sakein aur unhe mental health re realted help mil sake\n- Students ke mental health ki well being promote karne ke liye activities/events organize karna\n- Students ki counseling services manage karna\n "
+                    }
+                ]
+            },
+            {
+                "id": "1832",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Eligibility to contest for Council",
+                "slug": "hindi-constitution__section-1-council/eligibility",
+                "sequence_num": 3009,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/eligibility.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Eligibility to contest for Council\n\n Election ke samay par jin students ko NavGurukul me **2 month ya usse jyada** samay ho chuka hai, wo **council** election me contest kar sakte hain. Ye niyam laagu nahi hoga agar kisi profile ke liye 3 se kam candidates contest karte hain.  Election ke samay jis student ko NavGurukul me **6 months ya usse jyada** ho chuka hai aur jo ek baar (current ya past me) council member reh chuka hai, wo **GenSec** ki profile ke liye contest kar sakta hai.  Aise case me, agar humaare paas kisi profile ke liye 3 candidates nahi hote hain to election me contest karne ke eligibility criteria ko 1 month kam kar diya jayega.  "
+                    }
+                ]
+            },
+            {
+                "id": "1833",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "General Body Meeting",
+                "slug": "hindi-constitution__section-1-council/gbm",
+                "sequence_num": 3010,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/gbm.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# General Body Meeting\n\n General body NavGurukul ke sabhi sabhi students se milkar bani hai. Council ki performance ko review karne ke liye har mahine general body ki ek meeting hogi. Is meeting me council ki sabhi committees poori general body ke saamne apne pichle ek mahine ke kaam aur experiences ko Good, Bad and Ugly format me rakhengi. Ye GBU report Center ke sath bhi share ki jayegi.  GUB format me report banane ke liye ise ek guideline ki tarah use kiya ja sakta hai:  **The Good:**   - Campus me kya positive change laaye gaye? \n - Council ka member bankar is dauraan aapne kin challenges ko overcome kiya? \n\n **The Bad:**  - Wo cheezein jo galat ho gayi lekin aapko unse seekhne ko mila aur unhe thodi mehnat se theek kiya ja sakta hai.\n\n **The Ugly:**  - Wo cheezein jo bahut jyada kharab ho gayi. Jinhe high priority par rakhkar jaldi se resolve karne ki zaroorat hai. \n\n Is exercise ka motive hai ki council members apne kaam ko acche se review karke poori community ke saath share kar sakein. Is se unke apni pichli galatiyon ke through unhe ye acknowledge karne me madad milegi ki kis area me unhe jayda effort lagane ki zaroorat hai. Is meeting me general body ke members bhi appreciation aur disappointment share kar sakte hain. Unse expect kiya jata hai ki council ke kaam ko aur behtar banane ke liye wo constuctive feedback provide karein.  "
+                    }
+                ]
+            },
+            {
+                "id": "1834",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Right to Recall",
+                "slug": "hindi-constitution__section-1-council/recall",
+                "sequence_num": 3011,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/recall.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Right to Recall\n\n 3 months ke dauraan agar students body ko ye lagta hai ki koi council member unreponsive hai, apni responsibilities poori nahi kar raha hai to wo ye kar sakte hain:  - GBM me matter ko proper reason ke saath discuss kar sakte hain. Concerned council member sawalon ke jawab dene ke liye accountable hoga.\n - Agar maamle par immediate attention dene ki zaroorat hai to aap apna concern appropriate communication channel par post kar sakte hain.\n - Council member ko dismiss karne ke liye DISCO ko petition likh kar de skate hain. DISCO ek anonymous vote conduct karega. Isme agar 2/3rd community members petition ke favour me vote karte hain to concerned member ko council se dismiss kar diya jayega.\n - Agar DISCO ko dismiss karne ke liye koi petition raise kiya jata hai to ise GenSec address karega. GenSec ek anonymous vote conduct karega jisme agar 2/3rd community members petition ke favour me vote karte hain to DISCO ko under review rakha jayega aur DISCO ke dismissal ka decision Governor ke paas hoga.\n\n Right to Recall council to apni responsibilities se bhaagne se bachata hai. "
+                    }
+                ]
+            },
+            {
+                "id": "1835",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Resignation & Dismissal",
+                "slug": "hindi-constitution__section-1-council/resignation-and-dismissal",
+                "sequence_num": 3012,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/resignation-and-dismissal.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Resignation\n Agar koi Council member Council se resign karna chahta hai, to wo Governor ko ek resignation letter likhega jisme resignation ki wajah bhi mention ki jayegi. Jis din Governor resignation accept aur acknolewdge karega, us din se theek 2 hafte baad us member ko Council ki responsibilities se relieve kar diya jayega.  \n\n## Dismissal\n Kisi council member ke dwara breach of conduct ya uske against major disciplinary actions ke case me Governor council member se resignation maang sakta hai. "
+                    }
+                ]
+            },
+            {
+                "id": "1836",
+                "parent_exercise_id": "1818",
+                "course_id": "70",
+                "name": "Interim Responsibilities",
+                "slug": "hindi-constitution__section-1-council/intrim-responsibilities",
+                "sequence_num": 3013,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-1-council/intrim-responsibilities.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "\n\n## Interim Responsibilities\n Agar kisi council member ko kuch dino ke liye campus se bahar jaana hai aur wo us duration me apni responsibilities poori nahi kar sakta to, aise case me ye us council member ki duty hai ki wo apni responsibilities kisi ko handover karke jaye jo unki absence me sabhi kaamo ka dhyaan rakhe. * Absence for <= 14 days: GenSec se consult karke pata lagana ki kya wo Council member apni respnsibilities remotely poori kar sakta hai. Agar nahi, to apni responsibilities kisi existing Council member ko handover karke jaana. Agar koi Council member wo responsibilities nahi nibha ke liye taiyaar nahi hota to Electios ke results ko revisite karna padega aur jis nominated member ko 2nd highest votes mile the, wo member temporarily us profile ki responsibility le sakta hai\n* Absence for > 14 days: Uss profile ke liye re-elction kiye jayenge\n\n\n Agar koi bhi Council member apni responsibility kisi ko handover kiye bina campus se jaata hai to usse resignation maanga jayega. Wo aage aane wale elections me participate nahi kar payenge. "
+                    }
+                ]
+            },
+            {
+                "id": "1821",
+                "parent_exercise_id": "1821",
+                "course_id": "70",
+                "name": "Section II - Disciplinary Committee",
+                "slug": "hindi-constitution__section-2-discipline/section-2-discipline",
+                "sequence_num": 4000,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-2-discipline/section-2-discipline.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Disciplinary Committee\n\n Responsibilities:  - **Dis**ciplinary **Co**mmittee (DISCO) campus ka discipline maintain karne ke liye responsible hai.\n - Coucil ke sath consult karke ek time schedule banana\n - Is schedule me class times, meal times, morning and evening circle aur work time included honge\n - Ensure karna ki saare rules & regulations posters ki help se laid out hon\n - Ensure karna ki har student ne rules and regulations ki ek copy sign kiya ho\n - Rules ke violation ya misconduct ko address karna aur uspar appropriate action lena\n - Disciplinary actions ke sabhi cases ka ek public record maintain karna \n - Campus me election conduct karwana\n - Laptops ke sath sath har 45 days par students ke beech me beds aur rooms ka reallocation karwana\n "
+                    }
+                ]
+            },
+            {
+                "id": "1840",
+                "parent_exercise_id": "1821",
+                "course_id": "70",
+                "name": "Appointment of DISCO",
+                "slug": "hindi-constitution__section-2-discipline/appointment",
+                "sequence_num": 4001,
+                "review_type": "peer",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/hindi-constitution/section-2-discipline/appointment.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "# Appointment of DISCO\n\n BOG DISCO ke appointment ke liye nomination mangega. Students khud ya kisi aur ko bhi nominate kar sakte hain. Board of Governors ke ek ya ek se jyada members interview ke basis par DISCO ka appointment karenge. DISCO ki profile ke liye nomination is [form](https://goo.gl/forms/NAAbfURpuHd1oe923) ke through liye jayenge.  \n\n### Punishments/ Corrective Measures\n\n Kisi student ke rules violate karne ya misbehave karne par DISCO BOG ke saath consult karke disciplinary action le sakta hai. "
+                    }
+                ]
+            }
+        ]
+    }
+}
